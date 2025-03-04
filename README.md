@@ -1,0 +1,1 @@
+Reproduction for an issue with streaming Azure function responses with SWA.
